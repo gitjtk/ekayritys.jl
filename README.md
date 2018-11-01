@@ -1,0 +1,2 @@
+# ekayritys.jl
+ensimmainen kokeilu
